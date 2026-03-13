@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41ce12ae-9b35-43c6-b772-613990708586" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Bank.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearchTree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckListUnitTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Circle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatabaseConnectionTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatabaseQueryTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileExistsTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FloatPrecisionTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InputValidationTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListEqualityTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultithreadingTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PalindromeTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Person.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimeNumberUnitTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShoppingCart.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StackDisplay.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3AXpsyKSa56IEoLxqWvpUQbllML" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Bank.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BinarySearchTree.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CheckListUnitTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Circle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DatabaseConnectionTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DatabaseQueryTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FileExistsTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FloatPrecisionTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.InputValidationTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ListEqualityTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MultithreadingTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PalindromeTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Person.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PrimeNumberUnitTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Queue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Shape.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ShoppingCart.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Stack.executor&quot;: &quot;Run&quot;,
+    &quot;Python.StackDisplay.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/adign/college/y3/S2/web/Lab5&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adign\college\y3\S2\web\lab2" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.26775.15" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.26775.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41ce12ae-9b35-43c6-b772-613990708586" name="Changes" comment="" />
+      <created>1772748980011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772748980011</updated>
+      <workItem from="1772748981049" duration="3848000" />
+      <workItem from="1773099226228" duration="87000" />
+      <workItem from="1773404357168" duration="1069000" />
+      <workItem from="1773405784445" duration="3360000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lab2$Queue.coverage" NAME="Queue Coverage Results" MODIFIED="1772751270347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab2$DatabaseConnectionTest.coverage" NAME="DatabaseConnectionTest Coverage Results" MODIFIED="1772751085120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab2$StackDisplay.coverage" NAME="StackDisplay Coverage Results" MODIFIED="1772751336306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab2$CheckListUnitTest.coverage" NAME="CheckListUnitTest Coverage Results" MODIFIED="1772751063791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab2$InputValidationTest.coverage" NAME="InputValidationTest Coverage Results" MODIFIED="1772751127319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab2$PrimeNumberUnitTest.coverage" NAME="PrimeNumberUnitTest Coverage Results" MODIFIED="1772751257253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab2$BinarySearchTree.coverage" NAME="BinarySearchTree Coverage Results" MODIFIED="1772752177682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab2$MultithreadingTest.coverage" NAME="MultithreadingTest Coverage Results" MODIFIED="1772751224898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab2$Person.coverage" NAME="Person Coverage Results" MODIFIED="1772751247298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab2$Circle.coverage" NAME="Circle Coverage Results" MODIFIED="1772751076946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab2$FloatPrecisionTest.coverage" NAME="FloatPrecisionTest Coverage Results" MODIFIED="1772751115624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab2$main.coverage" NAME="main Coverage Results" MODIFIED="1772751220698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab2$ShoppingCart.coverage" NAME="ShoppingCart Coverage Results" MODIFIED="1772751309371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab2$Stack.coverage" NAME="Stack Coverage Results" MODIFIED="1772751320685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab2$FileExistsTest.coverage" NAME="FileExistsTest Coverage Results" MODIFIED="1772751104894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab2$PalindromeTest.coverage" NAME="PalindromeTest Coverage Results" MODIFIED="1772751234369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab2$Shape.coverage" NAME="Shape Coverage Results" MODIFIED="1772751288210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab2$DatabaseQueryTest.coverage" NAME="DatabaseQueryTest Coverage Results" MODIFIED="1772751095183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab2$LinkedList.coverage" NAME="LinkedList Coverage Results" MODIFIED="1772752199683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab2$ListEqualityTest.coverage" NAME="ListEqualityTest Coverage Results" MODIFIED="1772751208480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab2$Calculator.coverage" NAME="Calculator Coverage Results" MODIFIED="1772752159534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab2$Bank.coverage" NAME="Bank Coverage Results" MODIFIED="1772752212298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
